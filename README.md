@@ -2,14 +2,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=100&lines=Felix+Hartmann;Researching+WMs+%7C+LLM+Reasoning+%7C+Autonomous+Agents;Open-Source+Research+%26+Experimental+Systems" alt="Typing SVG" />
 
-<br/>
-
-[![GitHub followers](https://img.shields.io/github/followers/felixhartmannnn?style=social)](https://github.com/felixhartmannnn)
-[![Twitter Follow](https://img.shields.io/twitter/follow?style=social)](https://twitter.com/felixhartmannnn)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://linkedin.com/in/felixhartmannnn)
-
-<br/>
-
 ### 👋 Hi, I'm Felix Hartmann
 
 **Researching window managers, LLM reasoning, and autonomous agents. Open-source research, evaluations, and experimental systems.**

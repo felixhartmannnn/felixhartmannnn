@@ -2,8 +2,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=100&lines=Felix+Hartmann;Researching+WMs+%7C+LLM+Reasoning+%7C+Autonomous+Agents;Open-Source+Research+%26+Experimental+Systems" alt="Typing SVG" />
 
-### 👋 Hi, I'm Felix Hartmann
-
 **Researching window managers, LLM reasoning, and autonomous agents. Open-source research, evaluations, and experimental systems.**
 
 </div>
@@ -40,19 +38,6 @@ I'm a researcher focused on the intersection of **window managers**, **large lan
 | Experimental Systems | <img src="https://skillicons.dev/icons?i=linux" alt="Linux" /> <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" /> |
 
 </div>
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=felixhartmannnn&langs_count=8&layout=compact&theme=react&hide_border=true)
-
-</div>
-
----
-
-## GitHub Stats
-
-
-
 ---
 
 ## Activity Graph
@@ -82,17 +67,12 @@ I'm a researcher focused on the intersection of **window managers**, **large lan
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/felixhartmannnn)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/felixhartmannnn)
 [![Twitter](https://skillicons.dev/icons?i=x)](https://twitter.com/felixhartmannnn)
-[![Email](https://skillicons.dev/icons?i=gmail)](mailto:felixhartmannnn@gmail.com)
 
 </div>
 
 ---
 
 <div align="center">
-
-[![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=felixhartmannnn&show_icons=true&hide_title=true&hide_border=true&theme=react&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E&border_color=30363D)](https://github.com/felixhartmannnn)
-
-<br/>
 
 Made with ❤️ · Star my repos if they bring you value
 

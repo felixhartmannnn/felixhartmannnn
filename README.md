@@ -12,7 +12,7 @@
 
 ### 👋 Hi, I'm Felix Hartmann
 
-**Researching window managers, LLM reasoning, and autonomous agents. Sharing open-source research, evaluations, and experimental systems.**
+**Researching window managers, LLM reasoning, and autonomous agents. Open-source research, evaluations, and experimental systems.**
 
 </div>
 
@@ -59,13 +59,7 @@ I'm a researcher focused on the intersection of **window managers**, **large lan
 
 ## GitHub Stats
 
-<div align="center">
 
-![Felix Hartmann's GitHub Stats](https://github-readme-stats.vercel.app/api?username=felixhartmannnn&show_icons=true&hide_title=true&hide_border=true&theme=react&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E&border_color=30363D)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=felixhartmannnn&theme=react&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=8B949E&sideNums=8B949E&currStreakLabel=58A6FF&sideLabels=8B949E)
-
-</div>
 
 ---
 

@@ -36,6 +36,7 @@ I'm a researcher focused on the intersection of **window managers**, **large lan
 | LLM Reasoning | <img src="https://skillicons.dev/icons?i=python" alt="Python" /> <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" /> |
 | Autonomous Agents | <img src="https://skillicons.dev/icons?i=docker" alt="Docker" /> <img src="https://skillicons.dev/icons?i=git" alt="Git" /> |
 | Experimental Systems | <img src="https://skillicons.dev/icons?i=linux" alt="Linux" /> <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" /> |
+
 </div>
 
 ## Activity Graph

@@ -63,7 +63,7 @@ I'm a researcher focused on the intersection of **window managers**, **large lan
 
 <div align="center">
 
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/felixhartmannnn)
+[![Source](https://skillicons.dev/icons?i=github)](https://github.com/felixhartmannnn/felixhartmannnn)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/felixhartmannnn)
 [![Twitter](https://skillicons.dev/icons?i=x)](https://twitter.com/felixhartmannnn)
 

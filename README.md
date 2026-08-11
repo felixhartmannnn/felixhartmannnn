@@ -71,6 +71,12 @@ I'm a researcher focused on the intersection of **window managers**, **large lan
 
 ---
 
+## Repo
+
+Source and issues: https://github.com/felixhartmannnn/felixhartmannnn
+
+---
+
 <div align="center">
 
 Made with ❤️ · Star my repos if they bring you value

@@ -19,3 +19,21 @@ Thumbs.db
 /coverage
 
 /out
+
+/.vscode
+
+/.idea
+
+package-lock.json
+
+yarn.lock
+
+pnpm-lock.yaml
+
+/.next
+
+npm-debug.log
+
+yarn-debug.log
+
+*.log

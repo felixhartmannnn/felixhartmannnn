@@ -1,0 +1,23 @@
+name: README lint
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  readme-check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Verify README exists
+        run: test -f README.md
+      - name: Verify README contains repository self-link
+        run: grep -q "github.com/felixhartmannnn/felixhartmannnn" README.md
+      - name: Check for merge conflict markers
+        run: |
+          if grep -R -n "<<<<<<< HEAD\|=======\|>>>>>>>" README.md .github; then
+            echo "Found merge conflict markers"
+            exit 1
+          fi

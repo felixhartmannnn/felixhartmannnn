@@ -33,9 +33,9 @@ I'm a researcher focused on the intersection of **window managers**, **large lan
 
 | Research Areas | Tools & Platforms |
 |:---:|:---:|
-| LLM Reasoning | <img src="https://skillicons.dev/icons?i=python" alt="Python" /> <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" /> |
-| Autonomous Agents | <img src="https://skillicons.dev/icons?i=docker" alt="Docker" /> <img src="https://skillicons.dev/icons?i=git" alt="Git" /> |
-| Experimental Systems | <img src="https://skillicons.dev/icons?i=linux" alt="Linux" /> <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" /> |
+|| Window Managers | <img src="https://skillicons.dev/icons?i=python" alt="Python" /> <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" /> |
+|| LLM Reasoning | <img src="https://skillicons.dev/icons?i=docker" alt="Docker" /> <img src="https://skillicons.dev/icons?i=git" alt="Git" /> |
+|| Autonomous Agents | <img src="https://skillicons.dev/icons?i=linux" alt="Linux" /> <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" /> |
 
 </div>
 
@@ -78,6 +78,8 @@ Source and issues: https://github.com/felixhartmannnn/felixhartmannnn
 ---
 
 <div align="center">
+
+*Last updated: September 2026*
 
 Made with ❤️ · Star my repos if they bring you value
 
